@@ -1,0 +1,8 @@
+C:\Users\ddagostino\source\repos\DotNetConsoleAppTutorial\bin\Debug\DotNetConsoleAppTutorial.exe.config
+C:\Users\ddagostino\source\repos\DotNetConsoleAppTutorial\bin\Debug\DotNetConsoleAppTutorial.exe
+C:\Users\ddagostino\source\repos\DotNetConsoleAppTutorial\bin\Debug\DotNetConsoleAppTutorial.pdb
+C:\Users\ddagostino\source\repos\DotNetConsoleAppTutorial\obj\Debug\DotNetConsoleAppTutorial.csproj.AssemblyReference.cache
+C:\Users\ddagostino\source\repos\DotNetConsoleAppTutorial\obj\Debug\DotNetConsoleAppTutorial.csproj.SuggestedBindingRedirects.cache
+C:\Users\ddagostino\source\repos\DotNetConsoleAppTutorial\obj\Debug\DotNetConsoleAppTutorial.csproj.CoreCompileInputs.cache
+C:\Users\ddagostino\source\repos\DotNetConsoleAppTutorial\obj\Debug\DotNetConsoleAppTutorial.exe
+C:\Users\ddagostino\source\repos\DotNetConsoleAppTutorial\obj\Debug\DotNetConsoleAppTutorial.pdb
